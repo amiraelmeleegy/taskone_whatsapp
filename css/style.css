@@ -1,0 +1,21 @@
+*{
+    border: 0;
+}
+
+
+.field .first legend {
+    background-color: blue;
+}
+
+.field .first {
+    background-color: brown;
+}
+
+.field .second {
+    background-color: chocolate;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
